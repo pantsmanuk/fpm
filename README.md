@@ -1,7 +1,7 @@
 Colofon
 =======
 
-PHP 7.0 FPM with the mysqli extension enabled because docker within phpstorm is (currently) only working with native Docker via docker-compose.yaml files, and that means no Dockerfile. Also includes nullmailer to test email functionality (sendmail) in PHP applications. 
+PHP 7.0 FPM with the mcrypt and mysqli extensions enabled because docker within phpstorm is (currently) only working with native Docker via docker-compose.yaml files, and that means no Dockerfile. Also includes nullmailer to test email functionality (sendmail) in PHP applications. 
 
 Usage
 =====
